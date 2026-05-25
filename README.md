@@ -13,6 +13,11 @@ This was my final p5 output, and the one I am most proud of. I like this one bec
 
 ## My 3 Curated TouchDesigner outputs from this semester.
 
-1:Week 9 output
+1:"Cyan_Flare" from week 9. I selected this output because I was very happy with how the textures and colours came together. 
+
+
 2:Week 10 output
+sdsd
+
 3:Week 11 output
+ss
