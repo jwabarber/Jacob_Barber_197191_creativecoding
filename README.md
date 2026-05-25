@@ -1,6 +1,6 @@
 My 3 curated p5.JS outputs from this semester.
 
-1:"noise dots" from week 4? https://editor.p5js.org/jwabarber/sketches/njv3eamff
+1:"noise dots" from week 4 https://editor.p5js.org/jwabarber/sketches/njv3eamff
 I chose this output because I like the texture that it produces. I like that varying intensities of noise are demonstrated using the same object/block of code. To take this one further I think it would be interesting to have the dots move omni-directionally, and have the angle/direction they head in be mapped to a noise value. 
 
 2:"map" from week 5 https://editor.p5js.org/jwabarber/sketches/K2aYRjfHX
