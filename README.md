@@ -18,5 +18,4 @@ This was my final p5 output, and the one I am most proud of. I like this one bec
 
 2:"Urchin_Bloom" from week 10. I selected this output because of its aestheitc appeal to me. This was the first output I worked on when we were being introduced to SOPs, so it doesn't accomplish much with them specifically. I threw in a noise + lfo into the bloom later on after not being able to settle on a single setting configuration. To make this one better I thnk I couhld appraoch forming the spines in 3-d space using sopes rather than relying of textures and displacement. 
 
-3:"Accretion_Disk_Twist" from Week 11. 
-ss
+3:"Accretion_Disk_Twist" from Week 11. I selected this output because it is my favourite thing I have worked on this course. I was curious about how audio could be worked into CHOP channels and this was the result. I had been exploring generating multi-dimensional grids the week prior and I think this one a development of that. To develop this one further I would like to focus hard on isolating specific elements of a song into seperate channels and make visuals that seem to dance with it.  
