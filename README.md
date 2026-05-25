@@ -1,7 +1,7 @@
 My 3 curated p5.JS outputs from this semester.
 
 1:"noise dots" from week 4? https://editor.p5js.org/jwabarber/sketches/njv3eamff
-I chose this output because...
+I chose this output because I like the texture that it produces. I like that varying intensities of noise are demonstrated using the same object/block of code. To take this one further I think it would be interesting to have the dots move omni-directionally, and have the angle/direction they head in be mapped to a noise value. 
 
 2:"map" from week 5 https://editor.p5js.org/jwabarber/sketches/K2aYRjfHX
 This output is special to me in that it was the "ah-hah" moment where nested for loops finally started to make sense to me, and marked the point from which I was able to write out for loops and nested for loops without staring at documentation or copying another block of code directly. Looking forward I would like to incorporate more dynamic changes between each loop of the for loops. A few weeks ago I was trying to write something that drew letters that would change and deform along a grid. I ran out of steam and time so never saw it out but it still interests me.  
