@@ -8,6 +8,7 @@ This output is special to me in that it was the "ah-hah" moment where nested for
 
 3:"Spikey Mandala" from week 6 https://editor.p5js.org/jwabarber/sketches/A2Q6EoBpn
 This was my final p5 output, and the one I am most proud of. I like this one because it turned out just as I had imagined before I had started writing it. Going forward with this one i think I'd like to just add more shapes and colour dynamics. I would like to make something very maximalist. My mind looks to the menu screen from Hyper Demon when thinking about the affect and aesthetic I could take this output.  
+
 ---
 
 ## My 3 Curated TouchDesigner outputs from this semester.
