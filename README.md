@@ -16,8 +16,7 @@ This was my final p5 output, and the one I am most proud of. I like this one bec
 1:"Cyan_Flare" from week 9. I selected this output because I was very happy with how the textures and colours came together. I feel like what I achieved the most in this output was something whose aesthetic effect I was very satisfied with. Knowing what I know now about TouchDesigner I would like to incorporate CHOPs for more dynamic sequencing of the TOPs. 
 
 
-2:Week 10 output
-sdsd
+2:"Urchin_Bloom" from week 10. I selected this output because of its aestheitc appeal to me. This was the first output I worked on when we were being introduced to SOPs, so it doesn't accomplish much with them specifically. I threw in a noise + lfo into the bloom later on after not being able to settle on a single setting configuration. To make this one better I thnk I couhld appraoch forming the spines in 3-d space using sopes rather than relying of textures and displacement. 
 
-3:Week 11 output
+3:"Accretion_Disk_Twist" from Week 11. 
 ss
